@@ -1,0 +1,1 @@
+Test enter text in a new file named starttxt
